@@ -52,7 +52,6 @@
     "country-flag-icons": "^1.5.18",
     "country-state-city": "^3.2.1",
     "cross-env": "^7.0.3",
-    "crypto": "link:@types/@oslojs/crypto",
     "date-fns": "^4.1.0",
     "embla-carousel-react": "^8.5.2",
     "graphql": "^16.8.1",
